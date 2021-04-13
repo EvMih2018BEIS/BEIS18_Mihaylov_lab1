@@ -57,9 +57,11 @@ namespace LR2git
             double a = Convert.ToInt32(textBox1.Text);
             double b = Convert.ToInt32(textBox2.Text);
             double c;
+            фывджлфждывлфыджвлфжыдвлфждывфдыдфыэфывфжывдфыжвфыэжвфыэвжд32424эжпывапывжэаывэжадыэвждаыва
             c = a / b;
             textBox3.Text = Convert.ToString(c);
             label4.Text = "Деление";
+            
         }
     }
 }
